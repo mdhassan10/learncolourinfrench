@@ -1,0 +1,41 @@
+#red{
+    color:red;
+}
+#blue{
+    color:blue;
+}
+#orange{
+    color:orange;
+}
+#green{
+    color:green;
+}
+#yellow{
+    color:yellow;
+}
+#black{
+    color:black;
+}
+#white{
+    color:white;
+}
+#brown{
+    color:rgb(97, 29, 29);
+}
+#purple{
+    color:rgba(95, 35, 95, 0.493);
+}
+#pink{
+    color:rgb(255, 175, 188);
+}
+.color-title{
+    font-weight: normal;
+}
+img {
+    height: 200px;
+    width: 200px;
+}
+*{
+    text-align:center;
+    background-color: grey;
+}
